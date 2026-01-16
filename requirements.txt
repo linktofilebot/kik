@@ -2,8 +2,3 @@ python-telegram-bot[job-queue]
 pymongo
 dnspython
 flask
-python-telegram-bot
-pymongo
-dnspython
-flask
-requests
